@@ -1,4 +1,7 @@
 
+![1a1501000d3b357b1eff9fdca8d35f46](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/aee240ca-fdb2-4d20-86f7-d6261af616c5)
+
+![icon](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/aaca0831-560c-47b2-824f-8389617b3a7b)
 
 # Anticope-pack---Master-Meteor-Project-2  -  https://discord.gg/lefty
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
