@@ -1,4 +1,4 @@
-## Anticope-pack---Master-Meteor-Project-2
+# Anticope-pack---Master-Meteor-Project-2
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 
 ## General info
@@ -18,7 +18,7 @@
 * Lefty Benefits Jar: https://github.com/bruh1273/Lefty-s-Benefit/releases/download/latest/benefit-1.2.1.jar
 * Lefty Benefits Release Page: https://github.com/bruh1273/Lefty-s-Benefit/releases/
 * Fabric api link: https://www.curseforge.com/minecraft/mc-mods/fabric-api
-# --INSTALL GUIDE--
+## --INSTALL GUIDE--
 * Download the ui utils OR lefty benefit jar for your version from the releases tab (link 3 for UI utils, link 6 for Lefty Benefit ) or directly * from the jar link (Link 2 for UI Utils, link 5 for lefty benefit), place it in you minecraft mod folder with the fabric api for the version of * * minecraft you are running (message by @Tech Support )
 
 ## Addons included with Anticope pack
