@@ -1,7 +1,7 @@
-# Anticope-pack---Master-Meteor-Project-2
+## Anticope-pack---Master-Meteor-Project-2
 Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 
-General info
+## General info
 https://www.youtube.com/watch?v=xCJ16OVNegY&ab_channel=Claim by @claim
 Launcher version: Minecraft Fabric 1.19.4
 Minecraft will crash if you have any mods installed that are already build-in in the Anticope pack
@@ -9,7 +9,7 @@ Requirements: Brains
 Just another quick summery of how to download the pack. ->
 https://github.com/bruh1273/Master-Meteor-Project > Releases > anticope-fat-pack-0.4.jar
 
-Links
+## Links
 ANTICOPE PACK: https://github.com/bruh1273/Master-Meteor-Project
 UI Utils github: https://github.com/Coderx-Gamer/ui-utils
 UI Utils jar (1.19.4): https://github.com/Coderx-Gamer/ui-utils/releases/download/1.2.2/ui-utils_1.19.4_1.2.2.jar
@@ -21,7 +21,7 @@ Fabric api link: https://www.curseforge.com/minecraft/mc-mods/fabric-api
 --INSTALL GUIDE--
 Download the ui utils OR lefty benefit jar for your version from the releases tab (link 3 for UI utils, link 6 for Lefty Benefit ) or directly from the jar link (Link 2 for UI Utils, link 5 for lefty benefit), place it in you minecraft mod folder with the fabric api for the version of minecraft you are running (message by @Tech Support )
 
-Addons included with Anticope pack
+## Addons included with Anticope pack
 Fabric API and MaLiLib are included as they are required for minecraft to run with these modules.
 METEOR CLIENT
 Villager Roller - https://github.com/maxsupermanhd/meteor-villager-roller
