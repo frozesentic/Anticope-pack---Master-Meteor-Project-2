@@ -2,6 +2,7 @@
 
 
 # Anticope-pack---Master-Meteor-Project-2  -  https://discord.gg/lefty
+### THIS IS NOT MY PACK -> https://discord.gg/lefty
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 
 ## General info
