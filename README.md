@@ -1,8 +1,7 @@
 ![test](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/af142667-0cb1-497a-83d7-2ee3cb5ed21b)
 
 
-# Anticope-pack---Master-Meteor-Project-2  -  https://discord.gg/lefty
-### THIS IS NOT MY PACK -> https://discord.gg/lefty
+# Anticope-pack---Master-Meteor-Project-2 - https://discord.gg/lefty
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 
 ## General info
