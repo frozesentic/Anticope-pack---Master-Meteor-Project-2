@@ -2,7 +2,7 @@
 Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 
 General info
-https://www.youtube.com/watch?v=xCJ16OVNegY&ab_channel=Claim by @claim 
+https://www.youtube.com/watch?v=xCJ16OVNegY&ab_channel=Claim by @claim  
 Launcher version: Minecraft Fabric 1.19.4
 Minecraft will crash if you have any mods installed that are already build-in in the Anticope pack
 Requirements: Brains
