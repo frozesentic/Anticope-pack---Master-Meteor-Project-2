@@ -3,6 +3,7 @@
 
 # Anticope-pack---Master-Meteor-Project-2 - https://discord.gg/lefty
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
+* LEFTY DUPES PATREON -> https://www.patreon.com/LeftyDupes
 
 ## General info
 * https://www.youtube.com/watch?v=xCJ16OVNegY&ab_channel=Claim by @claim
