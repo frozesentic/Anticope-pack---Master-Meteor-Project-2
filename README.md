@@ -1,6 +1,6 @@
 ![No-LD-Logo](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/881e5fc7-8542-4ca8-a34a-90e1374d2bf3)
 
-                                                      #Anticope Pack
+                                                   #Anticope Pack
 DISCLAIMER: BY ABSOLUTELY ZERO MEANS HAVE I MADE ANY OF THESE MODS IN THIS PACK, I AM JUST USING THEM. I REPEAT. I HAVE NOT MADE ANY MODS. I AM NOT THE ORIGINAL CREATOR OF THE MODS IN THIS PACK. 
 
 * An all-in-one pack of every useful mod in anticope.ml along with a few other useful addons. Most of the mods are not created by us. All mods can be found on https://anticope.ml. Join https://discord.gg/lefty to support us!
