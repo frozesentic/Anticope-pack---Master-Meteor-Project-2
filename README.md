@@ -1,9 +1,18 @@
-![test](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/af142667-0cb1-497a-83d7-2ee3cb5ed21b)
+![No-LD-Logo](https://github.com/frozesentic/Anticope-pack---Master-Meteor-Project-2/assets/99868523/881e5fc7-8542-4ca8-a34a-90e1374d2bf3)
 
+                                                      #Anticope Pack
+DISCLAIMER: BY ABSOLUTELY ZERO MEANS HAVE I MADE ANY OF THESE MODS IN THIS PACK, I AM JUST USING THEM. I REPEAT. I HAVE NOT MADE ANY MODS. I AM NOT THE ORIGINAL CREATOR OF THE MODS IN THIS PACK. 
+
+* An all-in-one pack of every useful mod in anticope.ml along with a few other useful addons. Most of the mods are not created by us. All mods can be found on https://anticope.ml. Join https://discord.gg/lefty to support us!
 
 # Anticope-pack---Master-Meteor-Project-2 - https://discord.gg/lefty
 * Quick and permenant replacement for https://github.com/bruh1273/Master-Meteor-Project
 * LEFTY DUPES PATREON -> https://www.patreon.com/LeftyDupes
+
+## How to use
+Install fabric launcher for 1.19.4
+Download the latest release of the mod from the releases tab.
+Put it in your C:\Users\[name]\AppData\Roaming\.minecraft\mods folder where you have installed Meteor.
 
 ## General info
 * https://www.youtube.com/watch?v=xCJ16OVNegY&ab_channel=Claim by @claim
@@ -22,8 +31,6 @@
 * Lefty Benefits Jar: https://github.com/bruh1273/Lefty-s-Benefit/releases/download/latest/benefit-1.2.1.jar
 * Lefty Benefits Release Page: https://github.com/bruh1273/Lefty-s-Benefit/releases/
 * Fabric api link: https://www.curseforge.com/minecraft/mc-mods/fabric-api
-## --INSTALL GUIDE--
-* Download the ui utils OR lefty benefit jar for your version from the releases tab (link 3 for UI utils, link 6 for Lefty Benefit ) or directly * from the jar link (Link 2 for UI Utils, link 5 for lefty benefit), place it in you minecraft mod folder with the fabric api for the version of * * minecraft you are running (message by @Tech Support )
 
 ## Addons included with Anticope pack
 * Fabric API and MaLiLib are included as they are required for minecraft to run with these modules.
